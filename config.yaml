@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+languageCode: "en-gb"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://bajanreece.github.io"
+title: "The User Centric Blog"
+canonifyurls: true
+---
